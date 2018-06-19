@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f464c2d0-8458-46bc-97f9-1d8c2f51d77f" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Gemfile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/c/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/c/makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/c/test_beer_song.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/c/unity.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/c/unity.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/c/unity_internals.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/clojure/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/clojure/beer_song.clj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/clojure/beer_song_test.clj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/clojure/project.clj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/coffeescript/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/coffeescript/beer-song_test.spec.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/common-lisp/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/common-lisp/beer-song-test.lisp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/common-lisp/beer.lisp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cpp/CMakeLists.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cpp/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cpp/beer_song_test.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csharp/BeerSong.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csharp/BeerSong.csproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csharp/BeerSongTest.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csharp/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/delphi/BeerSong.dpr" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/delphi/BeerSongTests.dpr" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/delphi/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/delphi/inputdata.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/delphi/uBeerSongTests.pas" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ecmascript/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ecmascript/beer-song.spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ecmascript/gulpfile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ecmascript/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/elixir/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/elixir/beer_song.exs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/elixir/beer_song_test.exs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/erlang/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/erlang/beer_song.app.src" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/erlang/beer_song.erl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/erlang/beer_song_tests.erl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/erlang/exercism.hrl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/erlang/rebar.conf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/erlang/rebar.config" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fsharp/BeerSong.fs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fsharp/BeerSong.fsproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fsharp/BeerSongTest.fs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fsharp/Program.fs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fsharp/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/go/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/go/beer_test.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/haskell/Beer.hs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/haskell/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/haskell/Tests.hs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/haskell/package.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/haskell/stack.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/java/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/java/BeerSong.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/java/BeerSongTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/java/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/java/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/javascript/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/javascript/beer-song.spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/kotlin/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/kotlin/BeerSongTest.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/kotlin/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/kotlin/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lfe/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lfe/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lfe/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lfe/beer-song-tests.lfe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lfe/beer-song.app.src" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lfe/rebar.config" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lfe/rebar.lock" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lisp/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lisp/beer-song-test.lisp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lisp/beer.lisp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lua/.busted" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lua/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lua/beer-song_spec.lua" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/objective-c/BeerSongTest.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/objective-c/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ocaml/.merlin" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ocaml/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ocaml/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ocaml/beer_song.mli" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ocaml/jbuild" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ocaml/test.ml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perl5/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perl5/beer.t" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perl5/cases.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/php/beer-song_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pony/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pony/test.pony" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python/beer_song.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python/beer_song_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/r/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/r/beer-song.R" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/r/test_beer-song.R" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruby/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ruby/beer_song_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rust/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rust/Cargo.toml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rust/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rust/beer-song.rs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rust/lib.rs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scala/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scala/BeerSongTest.scala" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scala/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scala/build.sbt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/swift/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/swift/BeerSong.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/swift/BeerSongTests.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/swift/LinuxMain.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/swift/Package.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/swift/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typescript/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typescript/beer-song.test.ts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typescript/beer-song.ts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typescript/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typescript/tsconfig.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typescript/tslint.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/typescript/yarn.lock" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vimscript/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vimscript/beer_song.vader" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vimscript/beer_song.vim" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="52">
+              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1920" />
+    <option name="y" value="-4" />
+    <option name="width" value="1080" />
+    <option name="height" value="1924" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="99bottles-polyglot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="99bottles-polyglot" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.lastSelected" value="vcs.Subversion" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="options.searchVisible" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f464c2d0-8458-46bc-97f9-1d8c2f51d77f" name="Default" comment="" />
+      <created>1522313270518</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1522313270518</updated>
+      <workItem from="1522313272011" duration="16000" />
+      <workItem from="1529424076143" duration="121000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="137000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1920" y="-4" width="1080" height="1924" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4458414" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Gemfile.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="364">
+            <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

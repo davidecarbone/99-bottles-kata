@@ -21,37 +21,3 @@ listed below, please add them in their respective language tracks on Exercism
 
 If the language track does not exist (yet), you can request that a new track
 be added by opening an issue in https://github.com/exercism/request-new-language-track.
-
-## Supported Languages
-
-- c
-- csharp
-- cpp
-- clojure
-- coffeescript
-- common-lisp
-- delphi
-- ecmascript
-- elixir
-- erlang
-- fsharp
-- go
-- haskell
-- java
-- javascript
-- kotlin
-- lfe
-- lua
-- ocaml
-- objective-c
-- php
-- perl5
-- pony
-- python
-- r
-- ruby
-- rust
-- scala
-- swift
-- typescript
-- vimscript

@@ -1,0 +1,15 @@
+{
+    "name": "root/99bottles-polyglot",
+    "require": {
+        "phpunit/phpunit": "4.8"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "4.8"
+    },
+    "authors": [
+        {
+            "name": "davide.carbone",
+            "email": "davide.carbone@easywelfare.com"
+        }
+    ]
+}
